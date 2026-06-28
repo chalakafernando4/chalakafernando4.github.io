@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://chalakafernando4.github.io/sitemap-index.xml
